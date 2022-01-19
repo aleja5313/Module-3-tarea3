@@ -1,0 +1,18 @@
+body {
+  background-color: #b9d634;
+}
+form {
+  background-color: rgb(71, 87, 93);
+  border-radius: 30px;
+}
+h2{
+  color:darkblue;
+}
+h1{
+  color: rgb(0, 0, 0);
+  font-family:'Times New Roman', Times, serif; 
+  font-size:x-large;
+}
+label{
+  color:rgb(251, 251, 251)
+}
